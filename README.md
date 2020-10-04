@@ -2,20 +2,19 @@
 torso is like a wizardry engine
 ```
 /m/ //img sound bgm 
-val.js //global value
 torso.js //macro engine
 torso.css
 santique.otf
-//ui
-hud.js
-plane.js
-view.js
-//
 three.js
 dung.js //
 lab.js //random dungeron 
+//ui
+hud.js
+planes.js
+//
+val.js //global value
+view.js
+main.js
 //macro
 start.txt
-
-
 ```
