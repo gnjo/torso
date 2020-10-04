@@ -13,9 +13,10 @@ lab.js //random dungeron
 hud.js
 planes.js
 //
-val.js //global value
+val.js //global value&fn
 view.js
 main.js
 //macro
+data.txt //or .csv
 start.txt
 ```
