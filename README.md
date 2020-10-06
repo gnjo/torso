@@ -70,7 +70,7 @@ function ac2rate(ac){
  if(ac===-10)return 4
  if(ac===-11)return 3
  if(ac===-12)return 2
- return 100-(ac+10)*5
+ return (ac+10)*5
 }
 
 
